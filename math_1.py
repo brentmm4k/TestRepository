@@ -1,6 +1,9 @@
 add1 = 20
 add2 = 10
 add3 = 30
+
+
+
 sum = add1+add2+add3
 
 print('The sum is',sum)

@@ -17,6 +17,3 @@ print(f'{num:^20.2f}')
 print(f'{num:^10,.2f}')
 
 INTEREST_RATE = 0.069
-
-
-import turtle
